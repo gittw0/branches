@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xsi:type="con:RestService" id="a98c07be-16bc-46d4-ae79-0148ddf5290a" wadlVersion="http://wadl.dev.java.net/2009/02" name="http://rapis02.aqa.com.ru" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="a98c07be-16bc-46d4-ae79-0148ddf5290afileName">http%3A%2F%2Frapis02.aqa.com.ru</con:setting>
+  </con:settings>
+  <con:definitionCache/>
+  <con:endpoints>
+    <con:endpoint>http://rapis02.aqa.com.ru</con:endpoint>
+  </con:endpoints>
+</con:interface>
